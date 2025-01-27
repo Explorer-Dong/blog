@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1728233689288') format('truetype');
+  src: url('iconfont.ttf?t=1737997767889') format('truetype');
 }
 
 .iconfont {
@@ -13,6 +13,10 @@
 
 .icon-taoxin:before {
   content: "\e63a";
+}
+
+.icon-wiki:before {
+  content: "\e60a";
 }
 
 .icon-csdn:before {
