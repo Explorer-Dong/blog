@@ -12,7 +12,7 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://blog.dwj601.cn/
+url: https://explorer-dong.github.io/blog
 permalink: /:title/
 permalink_defaults:
 pretty_urls:
