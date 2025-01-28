@@ -13,28 +13,6 @@ index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/web-imgs/img-artical/hell
 
 ## 内容简介
 
-{% code_tabs C++, Python, Java %}
-```cpp
-#include <iostream>
-int main() {
-    std::cout << "Hello, world!" << std::endl;
-    return 0;
-}
-```
-====
-```python
-print("Hello, world!")
-```
-====
-```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, world!");
-    }
-}
-```
-{% endcode_tabs %}
-
 欢迎访问我的博客网站！本网站托管了个人从本科开始记录的电子笔记，内容主要有 **AI/CS 课程笔记**、**开发技术文章**、**算法竞赛题解**。笔记采用 Markdown 格式记录，Hexo 框架编译与部署，欢迎 Issue 和 PR！
 
 如果您闲来无事，可以阅读网站主页「置顶」的文章；如果您有备而来，可以「搜索」全站内容或按照文章「分类」查找。
