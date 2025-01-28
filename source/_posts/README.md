@@ -1,11 +1,39 @@
 ---
-title: 陌生人，你好 :D
-sticky: 100
+title: 我的博客网站
+date: 2024-02-17
+updated: 2025-01-28
+tags:
+  - 随笔
+  - 网站
+categories:
+  - 生活
 category_bar: true
 index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/web-imgs/img-artical/hello.png
 ---
 
 ## 内容简介
+
+{% code_tabs C++, Python, Java %}
+```cpp
+#include <iostream>
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
+```
+====
+```python
+print("Hello, world!")
+```
+====
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+```
+{% endcode_tabs %}
 
 欢迎访问我的博客网站！本网站托管了个人从本科开始记录的电子笔记，内容主要有 **AI/CS 课程笔记**、**开发技术文章**、**算法竞赛题解**。笔记采用 Markdown 格式记录，Hexo 框架编译与部署，欢迎 Issue 和 PR！
 
