@@ -1,12 +1,16 @@
 ---
 title: 自学指南
-categories: 其他
+date: 2024-10-26
+tags: [AI, CS, 自学指南]
+categories:
+  - 2024
 category_bar: true
+index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/web-imgs/img-artical/book-shop.png
 ---
 
-## 自学指南
+## 前言
 
-本文收录一些 AI/CS 的学习资源。我会将自己学习过的内容进行一定的简介，剩余内容有待探索。
+本文收录个人曾自学过或者推荐的 AI/CS 学习资源。
 
 ## CSDIY
 
@@ -24,7 +28,9 @@ https://roadmap.sh/
 
 这是一位内地创业新人制作的编程学习指南。指南内容良莠不齐，但可以作为相对容易的中文入门教程。
 
-https://www.codefather.cn/post/1797520541019598849
+- 主站：https://www.codefather.cn/
+
+- 路线：https://www.codefather.cn/post/1797520541019598849
 
 ## 可视化学习平台
 

@@ -1,19 +1,16 @@
 ---
 title: 我的博客网站
-date: 2024-02-17
-updated: 2025-01-28
-tags:
-  - 随笔
-  - 网站
+date: 2024-02-18
+tags: [生活, 建站, 博客]
 categories:
-  - 生活
+  - 2024
 category_bar: true
 index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/web-imgs/img-artical/hello.png
 ---
 
 ## 内容简介
 
-欢迎访问我的博客网站！本网站托管了个人从本科开始记录的电子笔记，内容主要有 **AI/CS 课程笔记**、**开发技术文章**、**算法竞赛题解**。笔记采用 Markdown 格式记录，Hexo 框架编译与部署，欢迎 Issue 和 PR！
+欢迎访问我的博客分站！本网站托管了个人从本科开始记录的电子笔记，内容主要有 **AI/CS 课程笔记**、**开发技术文章**、**算法竞赛题解**。笔记采用 Markdown 格式记录，Hexo 框架编译与部署，欢迎 Issue 和 PR！
 
 如果您闲来无事，可以阅读网站主页「置顶」的文章；如果您有备而来，可以「搜索」全站内容或按照文章「分类」查找。
 
