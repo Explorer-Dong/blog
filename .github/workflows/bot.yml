@@ -23,6 +23,5 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages   # 存储站点的分支
           folder: public     # 构建出来的待部署的站点文件夹名称
