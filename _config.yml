@@ -13,6 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 url: https://blog.dwj601.cn/
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
