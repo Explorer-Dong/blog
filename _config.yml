@@ -12,8 +12,7 @@ language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
-url: https://blog.dwj601.cn/
-root: /blog/
+url: https://blog.dwj601.cn/blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
