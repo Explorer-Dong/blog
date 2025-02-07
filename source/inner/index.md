@@ -4,10 +4,9 @@ comment: true
 ---
 
 <div class="markdown-body">
+{% note %}
 
-{% note light %}
-
-每当独自听着歌，或者看到一些人、一些场景时，脑海中总会有小人在低语，有时倒也能让自己受到启发。但很多想法转瞬即逝，故借此处将一些内容及时记录下来，权当留念。
+记录一些内心独白。
 
 {% endnote %}
 
@@ -25,11 +24,7 @@ comment: true
 
 2024.11.08
 
-> Q: Do you think humans should live forever?
->
-> A: I don't think it's right. People's minds do not change when they get old, and if this really happens, how can human minds progress? *by Elon Reeve Musk*
-
-Well, it's pretty cool!
+人不应该长生不老，否则人类的思想将会永远被禁锢，无法产生突破。
 
 2024.11.09
 
@@ -46,5 +41,13 @@ Well, it's pretty cool!
 2024.11.25
 
 放平心态，认清自己。知道自己想要什么，又付出了多少，就足够了。至于他人的成败与否，都是过眼云烟。
+
+2025.02.07
+
+我不讨厌学习，我只是讨厌竞争。
+
+2025.02.08
+
+无纸化学习的最大好处，就是方便现在的自己和曾经的自己进行思想碰撞。如果现在的我可以对曾经的我记录的笔记进行斧正，那我就算是进步了。
 
 </div>
