@@ -8,7 +8,7 @@
     <link href="/2024-10-26_ai-diy/"/>
     <url>/2024-10-26_ai-diy/</url>
     
-    <content type="html"><![CDATA[<p>一直在纠结这篇文章要不要单独成篇，因为文章的长度不够，但考虑到资源的重要性还是决定单独成篇。</p><p>都说大学主要靠自学，的确不假。但无论是自学还是被督促着学，这其中最关键的还是学习资源，通俗易懂的教材可以让我们快速入门，层层递进的教材可以让我们扎实基础。本文就大致罗列一下在我学习过程中接触到的一些相对优质的学习资源。</p><ul><li><a href="https://csdiy.wiki/">CSDIY - csdiy.wiki</a> 这是一位 18 级 PKU 信科生制作的自学指南，主要以计算机科学与技术的领域知识为主。后随着开源与知名度的增加，学科方向逐渐完善。指南偏向于介绍优质的开源课程与学习心得。</li><li><a href="https://roadmap.sh/">开发学习路线 - roadmap.sh</a> 这是一位英国开发者制作的开发指南。指南中包含了主流的开发学习路径，同时每一个开发方向都配备了一些小任务与小题目，以任务驱动的方式引导我们入门不同的开发方向。</li><li><a href="https://www.codefather.cn/">鱼皮编程导航 - codefather.cn</a> 这是一位大陆创业新人制作的开发指南。与上一条内容类似，都是开发教学。指南内容良莠不齐，但可以作为相对容易的中文入门教程。学习路线图参考该网站的一篇文章 <a href="https://www.codefather.cn/post/1797520541019598849">编程学习路线 - codefather.cn</a>。</li><li><a href="https://serrano.academy/">可视化学习平台 - serrano.academy</a> 这是一位加拿大开发者维护的知识点可视化平台，对于一些相对晦涩的机器学习理论与数学理论进行了可视化讲解。</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>都说大学主要靠自学，的确不假。但无论是自学还是被督促着学，这其中最关键的还是学习资源，通俗易懂的教材可以让我们快速入门，层层递进的教材可以让我们扎实基础。本文就大致罗列一下在我学习过程中接触到的一些相对优质的学习资源。</p><ul><li><a href="https://csdiy.wiki/">开源课程 - csdiy.wiki</a> 这是一位 18 级 PKU 信科生制作的自学指南，主要以介绍 CS / AI 领域的优质开源课程与学习心得为主。</li><li><a href="https://serrano.academy/">知识可视化 - serrano.academy</a> 这是一位加拿大开发者维护的知识点可视化平台，主要以可视化一些相对晦涩的机器学习理论与数学理论为主；</li><li><a href="https://roadmap.sh/">开发路线 - roadmap.sh</a> 这是一位英国开发者制作的开发指南，主要以介绍开发路线为主。指南中每一个开发方向都配备了一些小任务与小题目，以任务驱动的方式引导我们入门不同的开发方向；</li><li><a href="https://www.codefather.cn/">项目实战 - codefather.cn</a> 这是一位大陆创业新人制作的编程学习平台，主要以中大型的项目实战为主。目前我正在学习跟进 or 感兴趣的项目有：<ul><li><a href="https://www.codefather.cn/course/1790979621621641217">聚合搜索 - codefather.cn</a></li><li><a href="https://www.codefather.cn/course/1790980531403927553">智能 BI - codefather.cn</a></li><li><a href="https://www.codefather.cn/course/1864210260732116994">智能协同云图库 - codefather.cn</a></li></ul></li></ul>]]></content>
     
     
     <categories>
@@ -76,22 +76,22 @@
   
   
   <entry>
-    <title>心语</title>
+    <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<div class="markdown-body"><div class="note note-info">            <p>记录一些内心独白。</p>          </div><p>2024.10.26</p><p>前进时，努力追随榜样的步伐，回头时，也应当能成为照亮后人的火把。</p><p>2024.10.28</p><p>我常常在想，人工智能专业的本科生经过三年系统的培养学习，到底学了些什么？今天脑子里蹦出了一个对照实验法。面对数学系、物理系甚至计算机科班的同学，我对于这些专业的学生有哪些科研、就业优势？面对小学初中的小朋友们或者其他行业的大朋友们，如果让我来给他们进行 AI 科普，我应当如何向他们解释人工智能、机器学习、深度学习，甚至大语言模型？想到这，学习的动力又增加了几分。。。</p><p>2024.10.31</p><p>当某件事情做出了肌肉记忆，我就知道我已经被困在舒适圈里了。</p><p>2024.11.08</p><p>人不应该长生不老，否则人类的思想将会永远被禁锢，无法产生突破。</p><p>2024.11.09</p><p>微风、微凉、清新的空气、对生活的规律支配，没有什么比这更让人心旷神怡的了。</p><p>2024.11.18</p><p>没有理论支撑的实践步履维艰。</p><p>2024.11.20</p><p>有思考的反复训练才是高效的学习策略。</p><p>2024.11.25</p><p>放平心态，认清自己。知道自己想要什么，又付出了多少，就足够了。至于他人的成败与否，都是过眼云烟。</p><p>2025.02.07</p><p>我不讨厌学习，我只是讨厌竞争。</p><p>2025.02.08</p><p>无纸化学习的最大好处，就是方便现在的自己和曾经的自己进行思想碰撞。如果现在的我可以对曾经的我记录的笔记进行斧正，那我就算是进步了。</p></div>]]></content>
+    <content type="html"><![CDATA[!(function () {var start = new Date("2024/02/18 00:00:00");function update() {var now = new Date();now.setTime(now.getTime() + 250);days = (now - start) / 1000 / 60 / 60 / 24;dnum = Math.floor(days);        hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;hnum = Math.floor(hours);        if (String(hnum).length === 1) hnum = "0" + hnum;        minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;mnum = Math.floor(minutes);        if (String(mnum).length === 1) mnum = "0" + mnum;seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;snum = Math.round(seconds);if (String(snum).length === 1) snum = "0" + snum;document.getElementById("timeDate").innerHTML = "本站已安全运行&nbsp" + dnum + "&nbsp天";document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";}update();setInterval(update, 1000);})();]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title></title>
+    <title>心语</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[!(function () {var start = new Date("2024/02/18 00:00:00");function update() {var now = new Date();now.setTime(now.getTime() + 250);days = (now - start) / 1000 / 60 / 60 / 24;dnum = Math.floor(days);        hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;hnum = Math.floor(hours);        if (String(hnum).length === 1) hnum = "0" + hnum;        minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;mnum = Math.floor(minutes);        if (String(mnum).length === 1) mnum = "0" + mnum;seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;snum = Math.round(seconds);if (String(snum).length === 1) snum = "0" + snum;document.getElementById("timeDate").innerHTML = "本站已安全运行&nbsp" + dnum + "&nbsp天";document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";}update();setInterval(update, 1000);})();]]></content>
+    <content type="html"><![CDATA[<div class="markdown-body"><div class="note note-info">            <p>记录一些内心独白。</p>          </div><p>2024.10.26</p><p>前进时，努力追随榜样的步伐，回头时，也应当能成为照亮后人的火把。</p><p>2024.10.28</p><p>我常常在想，人工智能专业的本科生经过三年系统的培养学习，到底学了些什么？今天脑子里蹦出了一个对照实验法。面对数学系、物理系甚至计算机科班的同学，我对于这些专业的学生有哪些科研、就业优势？面对小学初中的小朋友们或者其他行业的大朋友们，如果让我来给他们进行 AI 科普，我应当如何向他们解释人工智能、机器学习、深度学习，甚至大语言模型？想到这，学习的动力又增加了几分。。。</p><p>2024.10.31</p><p>当某件事情做出了肌肉记忆，我就知道我已经被困在舒适圈里了。</p><p>2024.11.08</p><p>人不应该长生不老，否则人类的思想将会永远被禁锢，无法产生突破。</p><p>2024.11.09</p><p>微风、微凉、清新的空气、对生活的规律支配，没有什么比这更让人心旷神怡的了。</p><p>2024.11.18</p><p>没有理论支撑的实践步履维艰。</p><p>2024.11.20</p><p>有思考的反复训练才是高效的学习策略。</p><p>2024.11.25</p><p>放平心态，认清自己。知道自己想要什么，又付出了多少，就足够了。至于他人的成败与否，都是过眼云烟。</p><p>2025.02.07</p><p>我不讨厌学习，我只是讨厌竞争。</p><p>2025.02.08</p><p>无纸化学习的最大好处，就是方便现在的自己和曾经的自己进行思想碰撞。如果现在的我可以对曾经的我记录的笔记进行斧正，那我就算是进步了。</p></div>]]></content>
     
   </entry>
   
