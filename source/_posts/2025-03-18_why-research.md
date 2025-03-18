@@ -1,5 +1,9 @@
 ---
 title: 科研二三事
+tags: [科研, 讲座, 读研]
+categories:
+  - 2025
+category_bar: true
 index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316171347038.png
 marp: true
 paginate: true
