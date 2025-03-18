@@ -1,5 +1,6 @@
 ---
 title: 科研二三事
+index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316171347038.png
 marp: true
 paginate: true
 style: |
