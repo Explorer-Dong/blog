@@ -2,10 +2,7 @@
 title: Hello World
 date: 2024-02-18
 tags: [生活, 建站, 博客]
-categories:
-  - 2024
-category_bar: true
-index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/web-imgs/img-artical/nnu.png
+index_img: https://cdn.dwj601.cn/web-imgs/img-artical/nnu.png
 ---
 
 欢迎访问我的 blog 分站，这里记录着我从读本科开始的生活点滴与人生感悟。不求有多高的曝光，但求能在这浩瀚的网络世界中，留下我来过的痕迹。

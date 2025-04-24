@@ -2,10 +2,7 @@
 title: 大三寒假总结
 date: 2025-2-14
 tags: [大三, 寒假, 摸鱼, 复盘]
-categories:
-  - 2025
-category_bar: true
-index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250214233833512.jpg
+index_img: https://cdn.dwj601.cn/images/20250214233833512.jpg
 ---
 
 今天是 2025 年 2 月 14 日，明天就要返校报到了，简单总结一下我的大三寒假。
@@ -16,9 +13,9 @@ index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250214233833512.
 
 {% gi 2 2 %}
 
-![芜湖古城 - 芜湖市镜湖区](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250214233831167.jpg)
+![芜湖古城 - 芜湖市镜湖区](https://cdn.dwj601.cn/images/20250214233831167.jpg)
 
-![愿望成真 - 祈福牌](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250214233833512.jpg)
+![愿望成真 - 祈福牌](https://cdn.dwj601.cn/images/20250214233833512.jpg)
 
 {% endgi %}
 
@@ -30,13 +27,13 @@ index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250214233833512.
 
 计划中是打算做一个轻量的系统监视器的，但是一调研发现 Windows 的小组件经过简单的调试就可以完全达到我预期的效果。的确不假，将鼠标悬浮在任务栏上的指定位置，就可以实现全方位的系统监视。
 
-![Windows 小组件实现系统监视功能](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250215001935384.png)
+![Windows 小组件实现系统监视功能](https://cdn.dwj601.cn/images/20250215001935384.png)
 
 于是第一个计划就告终了。我的评价是，如果不能超越，就绝不重复造轮子。
 
 计划中还打算在 Hexo-Fluid 主题中实现一下力扣平台的多语言并列展示功能，但是由于本人对前端实在是一窍不通，就放弃了。不过我在尝试开发的过程中发现了 Mkdocs-Material 主题，就将网站中的大部分文章迁移到了新主题上，期间发生了各种各样的问题，比如我的 Markdown 语法的不规范导致了很多渲染异常问题，也让我学会了很多运维和前端的小知识，比如工作流脚本编写、前端注入、浏览器跨域、防盗链等。同时，在与开源仓库的维护者们用英语交流时，我也发现了大部分外国人在对话开始都会礼貌地招呼我，再与我交流，这立刻让我想起了初中写的英语小作文中，开头的一句 Dear LiHua，很有意思的一件事。
 
-![与仓库维护者的交流，不得不说这个仓库的维护者们都很友善并且回复得都很及时](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250215003523513.png)
+![与仓库维护者的交流，不得不说这个仓库的维护者们都很友善并且回复得都很及时](https://cdn.dwj601.cn/images/20250215003523513.png)
 
 于是第二个计划也就告终了。我的评价是，前端可太难了。
 

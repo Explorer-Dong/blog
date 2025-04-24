@@ -1,10 +1,7 @@
 ---
 title: 科研二三事
 tags: [科研, 讲座, 读研]
-categories:
-  - 2025
-category_bar: true
-index_img: https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316171347038.png
+index_img: https://cdn.dwj601.cn/images/20250316171347038.png
 marp: true
 paginate: true
 style: |
@@ -24,7 +21,7 @@ math: katex
 
 ## 1 开场白
 
-![bg auto left](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250318222424738.png)
+![bg auto left](https://cdn.dwj601.cn/images/20250318222424738.png)
 
 非常感谢同学们能拿出宝贵的时间参加科研讲座。正所谓闻道有先后，尽管我比你们长 $1\sim2$ 级，但这并不代表我比在座的各位优秀，我也只是一个半只脚刚迈入科研的新人。我发言的目的是为了通过我的经历来弥补各位在科研方向上的信息差，**不迷失于大众，做有目标的前行者**。
 
@@ -36,7 +33,7 @@ math: katex
 
 等价的，如果你真的奔着听科研内容而来，很遗憾，你即将面对的，是一个残酷的世界。感兴趣的同学可以扫码看一下 NJU 的 jyy 老师给打算读研的同学们写的 [一封信](https://jyywiki.cn/Letter.md)。
 
-![bg auto right](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316164827344.png)
+![bg auto right](https://cdn.dwj601.cn/images/20250316164827344.png)
 
 ---
 
@@ -60,7 +57,7 @@ math: katex
 
 劝退的内容告一段落。下面给大家讲讲怎么摆脱「为了 xxx 而科研」的方法。前往 [CCF 推荐目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)，找到感兴趣的领域（字面意思）然后浏览 10 篇引用量最高的顶会论文，看看世界的边缘是如何被突破的。
 
-![bg auto left](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316171347038.png)
+![bg auto left](https://cdn.dwj601.cn/images/20250316171347038.png)
 
 ## 4 Paper
 
@@ -79,13 +76,13 @@ math: katex
 
 横向对比：跟人家 (SOTAs) 比、纵向对比：跟自己比 (ablation study)。下面这张图展示了一篇顶会论文 (CVPR 2021) 是如何将自己的模型和 SOTAs 进行对比的：
 
-![横向对比](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316175614457.png)
+![横向对比](https://cdn.dwj601.cn/images/20250316175614457.png)
 
 ---
 
 ### 4.3 写作水平 (Writing)
 
-![bg fit left](https://dwj-oss.oss-cn-nanjing.aliyuncs.com/images/20250316180953985.png)
+![bg fit left](https://cdn.dwj601.cn/images/20250316180953985.png)
 
 结构、表达、图表。其中结构取决于你的内容展示逻辑，表达取决于你的英文写作能力，这些都可以向你的真实导师 or 赛博导师 (DeepSeek, ChatGPT) 寻求帮助，这里讲讲图表的制作规范。主要有 4 点：
 
