@@ -2,17 +2,12 @@
 title: 解决服务器入侵攻击
 date: 2024-06-21
 tags: [网络安全, 云服务器, SSH 爆破]
-categories:
-  - 2024
-category_bar: true
 index_img: https://cdn.dwj601.cn/images/202406152121682.png
 ---
 
-## 前言
-
 刚想登录阿里云看看云 GPU 怎么租的，结果给我报了个安全问题。平时都是直接忽略，今天有兴致看了一眼，不看不知道一看吓一跳，尼玛被一个从没去过且没有挂 VPN 的 IP 登陆了。虽然不是 root 用户登的并且机子上也没啥机密文件，但是还是有一种被人看光的感觉。他爹的，我也不知道该怎么报复，记录一下修复的过程。
 
-## 一、确认被入侵
+## 1 确认被入侵
 
 本来的公钥文件 `authorized_keys` 没了：
 
@@ -26,7 +21,7 @@ index_img: https://cdn.dwj601.cn/images/202406152121682.png
 
 ![发现真凶！](https://cdn.dwj601.cn/images/202406152121637.png)
 
-## 二、调整鉴权信息
+## 2 调整鉴权信息
 
 ### 2.1 更改所有用户的密码
 
@@ -74,12 +69,12 @@ sudo systemctl restart sshd
 
 ![连接失败说明禁用密码登录设置成功](https://cdn.dwj601.cn/images/202406152152670.png)
 
-## 三、问题溯源
+## 3 问题溯源
 
 曾经在新建 git 用户时没有设置登录密码？之前在创建这个 git 用户时，没有注意到密码是怎么设置的，可能设置的太简单了？或者没有设置密码？当时还记录了，如下：
 
 ![翻车原罪](https://cdn.dwj601.cn/images/202406152158086.png)
 
-## 四、参考
+## 参考
 
 [Error: Permission denied (publickey) - github.com](https://docs.github.com/en/authentication/troubleshooting-ssh/error-permission-denied-publickey?platform=linux)
