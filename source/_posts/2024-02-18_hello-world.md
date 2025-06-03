@@ -5,6 +5,8 @@ tags: [生活, 建站, 博客]
 index_img: https://cdn.dwj601.cn/images/nnu.png
 ---
 
+![封面图](https://cdn.dwj601.cn/images/nnu.png)
+
 欢迎访问我的 blog 分站，这里记录着我从读本科开始的生活点滴与人生感悟。不求有多高的曝光，但求能在这浩瀚的网络世界中，留下我来过的痕迹。
 
 这是我的第一篇博客。就像我刚读本科时敲出的第一行 "hello world" 代码一样，我将博客的标题也取作了 "Hello World"，这里也是一个全新的开始。

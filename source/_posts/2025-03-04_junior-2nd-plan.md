@@ -6,6 +6,8 @@ mermaid: true
 index_img: https://cdn.dwj601.cn/images/20250303230310616.png
 ---
 
+![封面图](https://cdn.dwj601.cn/images/20250303230310616.png)
+
 ```mermaid
 ---
 title: 我的大三下“并发图”
