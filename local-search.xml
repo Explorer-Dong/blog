@@ -31,7 +31,7 @@
     <link href="/2025/03/03/"/>
     <url>/2025/03/03/</url>
     
-    <content type="html"><![CDATA[<pre><code class=" mermaid">gantt    dateFormat YY-MM    axisFormat  %y-%-m    section 绩点        稳住 :2025-3-1, 120d    section 论文        调研 :2025-3-1, 30d        实验 :2025-4-1, 80d        写作 :2025-5-15,60d    section 算竞        CCF CSP :2025-3-1, 90d        蓝桥杯 :2025-3-1, 60d    section 复习        高数 线代 概率论 最优化方法 :2025-3-15, 75d        操作系统 计组 计网 :2025-6-1, 30d        机器学习 :2025-3-1, 120d    section 英语        口语 :2025-5-1, 30d</code></pre><center>我的大三下“并发图”，时间跨度为：2025-03-01 ~ 2025-07-01</center>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.dwj601.cn/images/20250303230310616.png" alt="封面图"></p><pre><code class=" mermaid">---title: 我的大三下“并发图”---gantt    dateFormat YY-MM    axisFormat  %y-%-m    section 绩点        稳住 :2025-3-1, 120d    section 论文        调研 :2025-3-1, 120d        实验 :2025-6-1, 30d        写作 :2025-6-15,60d    section 算竞        CCF CSP :2025-3-1, 100d        蓝桥杯 :2025-3-1, 108d    section 复习        高数 线代 概率论 最优化方法 :2025-3-15, 150d        操作系统 计组 计网 :2025-6-1, 30d        机器学习 :2025-3-1, 180d    section 英语        口语 :2025-6-1, 30d</code></pre>]]></content>
     
     
     
@@ -81,7 +81,7 @@
     <link href="/2024/10/25/"/>
     <url>/2024/10/25/</url>
     
-    <content type="html"><![CDATA[<p>都说大学主要靠自学，的确不假。但无论是自学还是被督促着学，这其中最关键的还是学习资源，通俗易懂的教材可以让我们快速入门，层层递进的教材可以让我们扎实基础。本文就大致罗列一下在我学习过程中接触到的一些相对优质的学习资源。</p><ul><li><a href="https://csdiy.wiki/">开源课程 - csdiy.wiki</a> 这是一位 18 级 PKU 信科生制作的自学指南，主要以介绍 CS / AI 领域的优质开源课程与学习心得为主。</li><li><a href="https://serrano.academy/">知识可视化 - serrano.academy</a> 这是一位加拿大开发者维护的知识点可视化平台，主要以可视化一些相对晦涩的机器学习理论与数学理论为主；</li><li><a href="https://roadmap.sh/">开发路线 - roadmap.sh</a> 这是一位英国开发者制作的开发指南，主要以介绍开发路线为主。指南中每一个开发方向都配备了一些小任务与小题目，以任务驱动的方式引导我们入门不同的开发方向；</li><li><a href="https://www.codefather.cn/">项目实战 - codefather.cn</a> 这是一位大陆创业新人制作的编程学习平台，主要以中大型的项目实战为主。目前我正在学习跟进 or 感兴趣的项目有：<ul><li><a href="https://www.codefather.cn/course/1790979621621641217">聚合搜索 - codefather.cn</a></li><li><a href="https://www.codefather.cn/course/1790980531403927553">智能 BI - codefather.cn</a></li><li><a href="https://www.codefather.cn/course/1864210260732116994">智能协同云图库 - codefather.cn</a></li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.dwj601.cn/images/book-shop.png" alt="封面图"></p><p>都说大学主要靠自学，的确不假。但无论是自学还是被督促着学，这其中最关键的还是学习资源，通俗易懂的教材可以让我们快速入门，层层递进的教材可以让我们扎实基础。本文就大致罗列一下在我学习过程中接触到的一些相对优质的学习资源。</p><ul><li><a href="https://csdiy.wiki/">开源课程 - csdiy.wiki</a> 这是一位 18 级 PKU 信科生制作的自学指南，主要以介绍 CS / AI 领域的优质开源课程与学习心得为主。</li><li><a href="https://serrano.academy/">知识可视化 - serrano.academy</a> 这是一位加拿大开发者维护的知识点可视化平台，主要以可视化一些相对晦涩的机器学习理论与数学理论为主；</li><li><a href="https://roadmap.sh/">开发路线 - roadmap.sh</a> 这是一位英国开发者制作的开发指南，主要以介绍开发路线为主。指南中每一个开发方向都配备了一些小任务与小题目，以任务驱动的方式引导我们入门不同的开发方向；</li><li><a href="https://www.codefather.cn/">项目实战 - codefather.cn</a> 这是一位大陆创业新人制作的编程学习平台，主要以中大型的项目实战为主。目前我正在学习跟进 or 感兴趣的项目有：<ul><li><a href="https://www.codefather.cn/course/1790979621621641217">聚合搜索 - codefather.cn</a></li><li><a href="https://www.codefather.cn/course/1790980531403927553">智能 BI - codefather.cn</a></li><li><a href="https://www.codefather.cn/course/1864210260732116994">智能协同云图库 - codefather.cn</a></li></ul></li></ul>]]></content>
     
     
     
@@ -127,7 +127,7 @@
     <link href="/2024/02/17/"/>
     <url>/2024/02/17/</url>
     
-    <content type="html"><![CDATA[<p>欢迎访问我的 blog 分站，这里记录着我从读本科开始的生活点滴与人生感悟。不求有多高的曝光，但求能在这浩瀚的网络世界中，留下我来过的痕迹。</p><p>这是我的第一篇博客。就像我刚读本科时敲出的第一行 “hello world” 代码一样，我将博客的标题也取作了 “Hello World”，这里也是一个全新的开始。</p><p>其实在写下这段文字之前，我已经记过很多电子笔记了。在接触 MkDocs-Material 之前，我一直将那些笔记称作博客，但其实是不严谨的。博客应该是偏向于记叙类型的文章而非说明类型的文章，因此我将网站进行了解耦，将所有的说明类型的文章迁移到了 wiki 分站。迁移结束后才发现，我其实并没有正式地写过记叙类型的文章。</p><p>鄙人不才，从小就不爱写记叙性文字。讽刺的是，在上了大学可以自由地在网上冲浪后，我每次看到个人技术站点上的博客文章时，都会有很强的共鸣感。那些博客的文字说不上多生动，但是那种扑面而来的生活气息总能让我觉得很亲切，我能清晰地感受到冰冷屏幕后面，一个和我类似的技术学习者的心路历程。那种共鸣我难以用文字表述，但也激发了我写博客的意愿。</p><p>也有可能是上大学前，我的自我意识不够。总想着多刷几题，多考几分，没有多少空余的时间用来给我思考自我、思考人生。当我进入大学开始面对各种非线性的生活节奏时，我忽然产生了很多题目之外的思考与见解，我不清楚这些想法是否正确，我也不清楚非线性的人生应该是怎样的，但当我通过博客“窥见”别人的心路历程时，我都会异常兴奋，因为我总能从他们的经历中学到点什么。</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.dwj601.cn/images/nnu.png" alt="封面图"></p><p>欢迎访问我的 blog 分站，这里记录着我从读本科开始的生活点滴与人生感悟。不求有多高的曝光，但求能在这浩瀚的网络世界中，留下我来过的痕迹。</p><p>这是我的第一篇博客。就像我刚读本科时敲出的第一行 “hello world” 代码一样，我将博客的标题也取作了 “Hello World”，这里也是一个全新的开始。</p><p>其实在写下这段文字之前，我已经记过很多电子笔记了。在接触 MkDocs-Material 之前，我一直将那些笔记称作博客，但其实是不严谨的。博客应该是偏向于记叙类型的文章而非说明类型的文章，因此我将网站进行了解耦，将所有的说明类型的文章迁移到了 wiki 分站。迁移结束后才发现，我其实并没有正式地写过记叙类型的文章。</p><p>鄙人不才，从小就不爱写记叙性文字。讽刺的是，在上了大学可以自由地在网上冲浪后，我每次看到个人技术站点上的博客文章时，都会有很强的共鸣感。那些博客的文字说不上多生动，但是那种扑面而来的生活气息总能让我觉得很亲切，我能清晰地感受到冰冷屏幕后面，一个和我类似的技术学习者的心路历程。那种共鸣我难以用文字表述，但也激发了我写博客的意愿。</p><p>也有可能是上大学前，我的自我意识不够。总想着多刷几题，多考几分，没有多少空余的时间用来给我思考自我、思考人生。当我进入大学开始面对各种非线性的生活节奏时，我忽然产生了很多题目之外的思考与见解，我不清楚这些想法是否正确，我也不清楚非线性的人生应该是怎样的，但当我通过博客“窥见”别人的心路历程时，我都会异常兴奋，因为我总能从他们的经历中学到点什么。</p>]]></content>
     
     
     
@@ -160,6 +160,17 @@
   
   
   <entry>
+    <title></title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[!(function () {var start = new Date("2024/02/18 00:00:00");function update() {var now = new Date();now.setTime(now.getTime() + 250);days = (now - start) / 1000 / 60 / 60 / 24;dnum = Math.floor(days);        hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;hnum = Math.floor(hours);        if (String(hnum).length === 1) hnum = "0" + hnum;        minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;mnum = Math.floor(minutes);        if (String(mnum).length === 1) mnum = "0" + mnum;seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;snum = Math.round(seconds);if (String(snum).length === 1) snum = "0" + snum;document.getElementById("timeDate").innerHTML = "本站已安全运行&nbsp" + dnum + "&nbsp天";document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";}update();setInterval(update, 1000);})();]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>心语</title>
     <link href="/"/>
     <url>/</url>
@@ -176,17 +187,6 @@
     <url>/</url>
     
     <content type="html"><![CDATA[@font-face {  font-family: "iconfont"; /* Project id  */  src: url('iconfont.ttf?t=1737997767889') format('truetype');}.iconfont {  font-family: "iconfont" !important;  font-size: 16px;  font-style: normal;  -webkit-font-smoothing: antialiased;  -moz-osx-font-smoothing: grayscale;}.icon-taoxin:before {  content: "\e63a";}.icon-wiki:before {  content: "\e60a";}.icon-csdn:before {  content: "\e502";}]]></content>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title></title>
-    <link href="/"/>
-    <url>/</url>
-    
-    <content type="html"><![CDATA[!(function () {var start = new Date("2024/02/18 00:00:00");function update() {var now = new Date();now.setTime(now.getTime() + 250);days = (now - start) / 1000 / 60 / 60 / 24;dnum = Math.floor(days);        hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;hnum = Math.floor(hours);        if (String(hnum).length === 1) hnum = "0" + hnum;        minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;mnum = Math.floor(minutes);        if (String(mnum).length === 1) mnum = "0" + mnum;seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;snum = Math.round(seconds);if (String(snum).length === 1) snum = "0" + snum;document.getElementById("timeDate").innerHTML = "本站已安全运行&nbsp" + dnum + "&nbsp天";document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";}update();setInterval(update, 1000);})();]]></content>
     
   </entry>
   
