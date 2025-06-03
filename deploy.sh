@@ -6,4 +6,4 @@ echo "部署到 Aliyun Server..."
 hexo clean
 hexo generate
 hexo deploy
-ossutil cp e:/_notes/Blog/public/local-search.xml oss://dwj-oss/search-files/ --force
+ossutil cp e:/_notes/Blog/public/local-search.xml oss://dwj-oss/files/ --force
