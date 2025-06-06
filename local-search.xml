@@ -5,8 +5,8 @@
   
   <entry>
     <title>科研二三事</title>
-    <link href="/2025/06/03/"/>
-    <url>/2025/06/03/</url>
+    <link href="/2025/06/06/"/>
+    <url>/2025/06/06/</url>
     
     <content type="html"><![CDATA[<p>本文产生于作者大三下学期时给学弟学妹们做的一场科研讲座。考虑到涉世未深、经验不足，内容大多引自他人之言。</p><!-- _paginate: skip --><h2 id="1-开场白">1 开场白</h2><p><img src="https://cdn.dwj601.cn/images/20250318222424738.png" alt="bg auto left"></p><p>非常感谢同学们能拿出宝贵的时间参加科研讲座。正所谓闻道有先后，尽管我比你们长 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mo>∼</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">1\sim2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">1</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">∼</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span> 级，但这并不代表我比在座的各位优秀，我也只是一个半只脚刚迈入科研的新人。我发言的目的是为了通过我的经历来弥补各位在科研方向上的信息差，<strong>不迷失于大众，做有目标的前行者</strong>。</p><p>如果觉得我讲的太慢，可以扫描 <a href="https://blog.dwj601.cn/2025/03/18/">左边的二维码</a> 在线浏览。</p><h2 id="2-劝退信">2 劝退信</h2><p>首先问问自己，为什么要科研？为什么要参加大创？以及为什么要来听这个讲座？如果你是为了志愿时而来，那么恭喜你选择了“正确”的道路，因为你不需要面对“拖着世界向前走”与“向现实妥协”的矛盾，你只需要做好你自己。</p><p>等价的，如果你真的奔着听科研内容而来，很遗憾，你即将面对的，是一个残酷的世界。感兴趣的同学可以扫码看一下 NJU 的 jyy 老师给打算读研的同学们写的 <a href="https://jyywiki.cn/Letter.md">一封信</a>。</p><p><img src="https://cdn.dwj601.cn/images/20250316164827344.png" alt="bg auto right"></p><hr><p>我并没有读过研究生，我也不清楚当我们的任务就是科研时，生活会是什么样的，但我相信 jyy 老师的劝退信是真诚的。因此我提取了其中的一部分适合在公共场合讨论的内容，与大家共勉。</p><h3 id="2-1-真实的学术圈">2.1 真实的学术圈</h3><blockquote><p>我们作为科技工作者，哪怕科研甚至专业训练不及格，都需要学会的保命的技能是编故事：publish or perish。学术界对“创新”是有包容性的：改变世界的发现总是领先于时代。此话不假，但也成了我们为“低价值学术”辩护的挡箭牌：哪怕内心认为这是绝无可能有用的东西，在利益面前，就总是能编出点 novelty，说它未来大约的确可能是有那么点用的。</p></blockquote><hr><h3 id="2-2-矛盾与冲突">2.2 矛盾与冲突</h3><blockquote><p>大部分天命人希望的是获得指导、提升自己、求得职位。但无论是哪种导师，想做大工作的、想做项目的、想躺平的，都很有可能和你的利益发生冲突。你最想要一秒立即毕业，不想浪费时间做没用的项目，但先富起来的人拉高了标准，老板还想叫你出活。吗喽们刚刚经历了“上课耽误学习”的本科四年，就被赶鸭子上架，只顾着焦虑地刷 GPA 和各种履历想让自己在竞争中能取得一些优势，结果反而导致了基础不牢，写代码都还是个半吊子，于是产生出许多因果的报应。</p></blockquote><h3 id="2-3-直面天命">2.3 直面天命</h3><blockquote><p>我知道这么写很容易让我招不到学生，但其实我觉得 “创业” 并不是一件那么难的事情，只要你是真心喜欢折腾计算机做各种好玩的事情，而不是总问换什么好处就行：<strong>如果你能看穿学校教的之外的东西，并且能自己自发地补上短板，那就足够了</strong>。但这句话分量很重，恐怕已经把金字塔底都凿穿了吧。</p></blockquote><h2 id="3-兴趣点">3 兴趣点</h2><p>劝退的内容告一段落。下面给大家讲讲怎么摆脱「为了 xxx 而科研」的方法。前往 <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/">CCF 推荐目录</a>，找到感兴趣的领域（字面意思）然后浏览 10 篇引用量最高的顶会论文，看看世界的边缘是如何被突破的。</p><p><img src="https://cdn.dwj601.cn/images/20250316171347038.png" alt="bg auto left"></p><h2 id="4-Paper">4 Paper</h2><p>接下来，我将会借助科研中论文的写作逻辑，向大家介绍科研到底在干什么。这里要感谢 <a href="http://ceai.njnu.edu.cn/user/?ID=73075">田旭东老师</a> 在研究生组会上的发言，我将其进行了压缩。</p><h3 id="4-1-创新性-Novelty">4.1 创新性 (Novelty)</h3><p>拟解决问题（motivation）、方法新颖程度、理论创新、实践/工程类创新、天马行空类创新。更具体地，就是说你的方法能 <strong>上升到更广泛的领域</strong> or <strong>下潜到更深层次的理论</strong>，来证明你的研究方法具有通用性、泛化性。举个例子：</p><blockquote><p>To address these challenges, we propose a NeuralCD framework to … Particularly, our NeuralCD is a general framework since it can cover many traditional models such as MF, IRT and MIRT.<br>– AAAI 2020: Neural Cognitive Diagnosis for Intelligent Education Systems</p></blockquote><hr><h3 id="4-2-性能-Performance">4.2 性能 (Performance)</h3><p>横向对比：跟人家 (SOTAs) 比、纵向对比：跟自己比 (ablation study)。下面这张图展示了一篇顶会论文 (CVPR 2021) 是如何将自己的模型和 SOTAs 进行对比的：</p><p><img src="https://cdn.dwj601.cn/images/20250316175614457.png" alt="横向对比"></p><hr><h3 id="4-3-写作水平-Writing">4.3 写作水平 (Writing)</h3><p><img src="https://cdn.dwj601.cn/images/20250316180953985.png" alt="bg fit left"></p><p>结构、表达、图表。其中结构取决于你的内容展示逻辑，表达取决于你的英文写作能力，这些都可以向你的真实导师 or 赛博导师 (DeepSeek, ChatGPT) 寻求帮助，这里讲讲图表的制作规范。主要有 4 点：</p><ol><li>紧凑：不要留大片空白区域；</li><li>配色：少用高饱和度颜色；</li><li>一致：前后文图主色保持一致；</li><li>简洁：不要在图中塞大段文字。</li></ol><h2 id="谢谢">谢谢</h2><ul><li><a href="https://marpit.marp.app/directives">Marp on VSCode - Marp it</a></li><li><a href="https://www.jianguoyun.com/p/DasNcD0Q6fiQDRjnyO8FIAA">Paper Writing - Xudong Tian</a></li><li><a href="https://jyywiki.cn/Letter.md">给各位天命人的劝退信 - jyywiki</a></li><li>原文地址：<a href="https://blog.dwj601.cn/2025/03/18/">科研二三事 - Dwj’s Blog</a></li></ul>]]></content>
     
@@ -62,13 +62,13 @@
     
     <tags>
       
+      <tag>复盘</tag>
+      
       <tag>大三</tag>
       
       <tag>寒假</tag>
       
       <tag>摸鱼</tag>
-      
-      <tag>复盘</tag>
       
     </tags>
     
@@ -160,22 +160,22 @@
   
   
   <entry>
-    <title></title>
+    <title>心语</title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[!(function () {var start = new Date("2024/02/18 00:00:00");function update() {var now = new Date();now.setTime(now.getTime() + 250);days = (now - start) / 1000 / 60 / 60 / 24;dnum = Math.floor(days);        hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;hnum = Math.floor(hours);        if (String(hnum).length === 1) hnum = "0" + hnum;        minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;mnum = Math.floor(minutes);        if (String(mnum).length === 1) mnum = "0" + mnum;seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;snum = Math.round(seconds);if (String(snum).length === 1) snum = "0" + snum;document.getElementById("timeDate").innerHTML = "本站已安全运行&nbsp" + dnum + "&nbsp天";document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";}update();setInterval(update, 1000);})();]]></content>
+    <content type="html"><![CDATA[<div class="markdown-body"><div class="note note-info">            <p>记录一些内心独白。</p>          </div><p>2024.10.26</p><p>前进时，努力追随榜样的步伐，回头时，也应当能成为照亮后人的火把。</p><p>2024.10.28</p><p>我常常在想，人工智能专业的本科生经过三年系统的培养学习，到底学了些什么？今天脑子里蹦出了一个对照实验法。面对数学系、物理系甚至计算机科班的同学，我对于这些专业的学生有哪些科研、就业优势？面对小学初中的小朋友们或者其他行业的大朋友们，如果让我来给他们进行 AI 科普，我应当如何向他们解释人工智能、机器学习、深度学习，甚至大语言模型？想到这，学习的动力又增加了几分。。。</p><p>2024.10.31</p><p>当某件事情做出了肌肉记忆，我就知道我已经被困在舒适圈里了。</p><p>2024.11.08</p><p>人不应该长生不老，否则人类的思想将会永远被禁锢，无法产生突破。</p><p>2024.11.09</p><p>微风、微凉、清新的空气、对生活的规律支配，没有什么比这更让人心旷神怡的了。</p><p>2024.11.18</p><p>没有理论支撑的实践步履维艰。</p><p>2024.11.20</p><p>有思考的反复训练才是高效的学习策略。</p><p>2024.11.25</p><p>放平心态，认清自己。知道自己想要什么，又付出了多少，就足够了。至于他人的成败与否，都是过眼云烟。</p><p>2025.02.07</p><p>我不讨厌学习，我只是讨厌竞争。</p><p>2025.02.08</p><p>无纸化学习的最大好处，就是方便现在的自己和曾经的自己进行思想碰撞。如果现在的我可以对曾经的我记录的笔记进行斧正，那我就算是进步了。</p><p>2025.03.31</p><p>如果一个模型可以在空间上被解释，那么我就一定能理解她。</p></div>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>心语</title>
+    <title></title>
     <link href="/"/>
     <url>/</url>
     
-    <content type="html"><![CDATA[<div class="markdown-body"><div class="note note-info">            <p>记录一些内心独白。</p>          </div><p>2024.10.26</p><p>前进时，努力追随榜样的步伐，回头时，也应当能成为照亮后人的火把。</p><p>2024.10.28</p><p>我常常在想，人工智能专业的本科生经过三年系统的培养学习，到底学了些什么？今天脑子里蹦出了一个对照实验法。面对数学系、物理系甚至计算机科班的同学，我对于这些专业的学生有哪些科研、就业优势？面对小学初中的小朋友们或者其他行业的大朋友们，如果让我来给他们进行 AI 科普，我应当如何向他们解释人工智能、机器学习、深度学习，甚至大语言模型？想到这，学习的动力又增加了几分。。。</p><p>2024.10.31</p><p>当某件事情做出了肌肉记忆，我就知道我已经被困在舒适圈里了。</p><p>2024.11.08</p><p>人不应该长生不老，否则人类的思想将会永远被禁锢，无法产生突破。</p><p>2024.11.09</p><p>微风、微凉、清新的空气、对生活的规律支配，没有什么比这更让人心旷神怡的了。</p><p>2024.11.18</p><p>没有理论支撑的实践步履维艰。</p><p>2024.11.20</p><p>有思考的反复训练才是高效的学习策略。</p><p>2024.11.25</p><p>放平心态，认清自己。知道自己想要什么，又付出了多少，就足够了。至于他人的成败与否，都是过眼云烟。</p><p>2025.02.07</p><p>我不讨厌学习，我只是讨厌竞争。</p><p>2025.02.08</p><p>无纸化学习的最大好处，就是方便现在的自己和曾经的自己进行思想碰撞。如果现在的我可以对曾经的我记录的笔记进行斧正，那我就算是进步了。</p><p>2025.03.31</p><p>如果一个模型可以在空间上被解释，那么我就一定能理解她。</p></div>]]></content>
+    <content type="html"><![CDATA[!(function () {var start = new Date("2024/02/18 00:00:00");function update() {var now = new Date();now.setTime(now.getTime() + 250);days = (now - start) / 1000 / 60 / 60 / 24;dnum = Math.floor(days);        hours = (now - start) / 1000 / 60 / 60 - 24 * dnum;hnum = Math.floor(hours);        if (String(hnum).length === 1) hnum = "0" + hnum;        minutes = (now - start) / 1000 / 60 - 24 * 60 * dnum - 60 * hnum;mnum = Math.floor(minutes);        if (String(mnum).length === 1) mnum = "0" + mnum;seconds = (now - start) / 1000 - 24 * 60 * 60 * dnum - 60 * 60 * hnum - 60 * mnum;snum = Math.round(seconds);if (String(snum).length === 1) snum = "0" + snum;document.getElementById("timeDate").innerHTML = "本站已安全运行&nbsp" + dnum + "&nbsp天";document.getElementById("times").innerHTML = hnum + "&nbsp小时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";}update();setInterval(update, 1000);})();]]></content>
     
   </entry>
   
