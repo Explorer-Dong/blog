@@ -100,9 +100,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  - type: git
-    repo: git@47.100.217.241:/home/repo/hexo-fluid-site.git
-    branch: main
 
 # GitHub Emojis
 ## Docs: https://github.com/crimx/hexo-filter-github-emojis
