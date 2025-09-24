@@ -86,12 +86,10 @@ index_img: https://cdn.dwj601.cn/images/20250924120309520.png
 1. 可以直接利用 OSS 的防盗链功能，禁止空的 Referer 请求。这种方法最简单，不需要各种折腾，但是不方便的地方就是我本地就没法查看 OSS 的图片了，因为各种 Markdown 编辑器加载图床的图片时发送的请求都是空的 Referer；
 2. 暂时还没想出其他方法。
 
-## 意外之喜
+## 意外发现
 
-在将剪贴板的图片复制进文档时，Typora 会自动进行无损压缩。这在某种程度上降低了我被盗刷流量的风险。如下图所示：
+经过我的测试，Windows 的截图系统调用会对 PNG 图片自动进行最大程度的压缩。具体可以在我提的 [Issue](https://github.com/typora/typora-issues/issues/6428) 看到。下图为同样的照片的不同输出结果：
 
-![Typora 会自动无损压缩从剪贴板粘贴进文档的图片](https://cdn.dwj601.cn/images/20250923192346985.png)
+![上面一张图为不压缩的输出结果，下面一张图为最大压缩的输出结果](https://cdn.dwj601.cn/images/20250923192346985.png)
 
-上图是我用 [Snipaste](https://www.snipaste.com/) 截的图，占用的存储为 681 KB，下图为我将图片粘贴进文档后，Typora 自动无损压缩后的图片大小，占用的存储空间减小到了 21 KB。
-
-关于该现象，我在 GitHub 上提了一个 [Issue](https://github.com/typora/typora-issues/issues/6428)，静候官方的解答。
+上图是我用 [Snipaste](https://www.snipaste.com/) 开启不压缩截图后输出的结果，占用的存储为 681 KB；下图为 Typora 直接从剪贴板读取的图片输出的结果，占用的存储空间减小到了 21 KB，两张图的视觉效果是一致的，这也印证了 PNG 的无损压缩理论。所以后面在使用 Snipaste 时，直接输出最大压缩的图片即可。
