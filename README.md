@@ -2,6 +2,38 @@
 
 个人博客网站，写点生活感悟。
 
+## 本地部署
+
+首先安装 [Git](https://git-scm.com/) 和 [Node.js](https://nodejs.org/zh-cn)，然后全局安装 [Hexo](https://hexo.io/zh-cn/) 的脚手架：
+
+```bash
+npm install hexo-cli -g
+```
+
+拉取仓库：
+
+```bash
+git clone https://github.com/Explorer-Dong/blog.git
+```
+
+进入博客文件夹：
+
+```bash
+cd blog/
+```
+
+局部安装 JavaScript 包依赖：
+
+```bash
+npm install
+```
+
+热启动后即可预览博客网站：
+
+```bash
+hexo s
+```
+
 ## 更新日志
 
 2025.09.24
@@ -10,7 +42,7 @@
 
 2025.01.28
 
-⭐ 更换网站框架，从 Hexo-Fluid 迁移至 MkDocs-Material。将原来的网站解耦为「学习」与「生活」两部分。迁移的根本原因：MkDocs-Material 支持并列展示内容块；以及我的网站定位其实是技术文档并非博客，而 MkDocs-Material 就是为技术文档而量身打造的。
+更换网站框架，从 Hexo-Fluid 迁移至 MkDocs-Material。将原来的网站解耦为「学习」与「生活」两部分。迁移的根本原因：MkDocs-Material 支持并列展示内容块；以及我的网站定位其实是技术文档并非博客，而 MkDocs-Material 就是为技术文档而量身打造的。
 
 25.01.19
 
