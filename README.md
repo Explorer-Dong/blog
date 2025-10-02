@@ -1,8 +1,12 @@
-## 内容简介
+# 个人博客
 
-个人博客网站，写点生活感悟。
+这是我的博客网站，随便写点学习、工作和生活感悟。
 
-## 本地部署
+- 博客地址：<https://blog.dwj601.cn/>
+- 搭建教程：<https://wiki.dwj601.cn/develop/ssg-hexo/>
+
+<details>
+<summary>本地部署</summary>
 
 首先安装 [Git](https://git-scm.com/) 和 [Node.js](https://nodejs.org/zh-cn)，然后全局安装 [Hexo](https://hexo.io/zh-cn/) 的脚手架：
 
@@ -34,7 +38,10 @@ npm install
 hexo s
 ```
 
-## 更新日志
+</details>
+
+<details>
+<summary>更新日志</summary>
 
 2025.09.24
 
@@ -97,3 +104,5 @@ hexo s
 24.02.27
 
 :gear: **配置：文章二级目录** - 通过 hexo 的层叠目录实现。提升文章分类检索速度。
+
+</details>
