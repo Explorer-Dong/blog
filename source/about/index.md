@@ -5,12 +5,13 @@ comment: true
 ---
 
 $$
-\begin{array}{ccccc}
+\begin{array}{cccc}
 \hline
-\textbf{阶段} & \textbf{时间} & \textbf{学校} & \textbf{方向} & \textbf{地址} \\
+\textbf{阶段} & \textbf{时间} & \textbf{学校} & \textbf{方向} \\
 \hline
-\text{高中} & 2019.09 - 2022.06 & \text{江苏省南菁高级中学} & \text{物化生} & \text{江苏省无锡市江阴市龙定路 158 号} \\
-\text{本科} & 2022.09 - present & \text{南京师范大学} & \text{人工智能} & \text{江苏省南京市栖霞区文苑路 1 号} \\
+\text{高中} & 2019.09 - 2022.06 & \text{江苏省南菁高级中学} & \text{物化生} \\
+\text{本科} & 2022.09 - present & \text{南京师范大学} & \text{人工智能} \\
+\text{硕士} & 2026.09 - present & \text{东南大学} & \text{计算机科学与技术} \\
 \hline
 \end{array}
 $$
