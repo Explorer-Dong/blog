@@ -5,6 +5,8 @@ tags: [算法, 集训]
 index_img: https://cdn.dwj601.cn/images/20251002155159920.png
 ---
 
+![封面图](https://cdn.dwj601.cn/images/20251002155159920.png)
+
 本文从 CSDN 迁移而来，权当留个纪念，题肯定不会再补了，哈哈哈。
 
 ## 前言
