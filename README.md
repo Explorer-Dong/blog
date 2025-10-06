@@ -6,7 +6,7 @@
 - 搭建教程：<https://wiki.dwj601.cn/develop/ssg-hexo/>
 
 <details>
-<summary>本地部署</summary>
+<summary> 本地部署 </summary>
 
 首先安装 [Git](https://git-scm.com/) 和 [Node.js](https://nodejs.org/zh-cn)，然后全局安装 [Hexo](https://hexo.io/zh-cn/) 的脚手架：
 
@@ -41,15 +41,15 @@ hexo s
 </details>
 
 <details>
-<summary>更新日志</summary>
+<summary> 更新日志 </summary>
 
 2025.09.24
 
-在将网站部署到阿里云 OSS 后，收到了 IP 轮询攻击，考虑到 OSS 不方便封禁 IP，遂重新将网站部署到服务器，并利用 Nginx 封禁 IP 网段。
+在将网站部署到阿里云 OSS 后，受到了 IP 轮询攻击，考虑到 OSS 不方便封禁 IP，遂重新将网站部署到服务器，并利用 Nginx 封禁 对应的 IP 网段。
 
 2025.01.28
 
-更换网站框架，从 Hexo-Fluid 迁移至 MkDocs-Material。将原来的网站解耦为「学习」与「生活」两部分。迁移的根本原因：MkDocs-Material 支持并列展示内容块；以及我的网站定位其实是技术文档并非博客，而 MkDocs-Material 就是为技术文档而量身打造的。
+更换网站框架，从 Hexo-Fluid 迁移至 MkDocs-Material。将原来的网站解耦为「学习」与「生活」两部分。迁移的根本原因：MkDocs-Material 支持并列展示内容块；以及我的网站定位其实是技术文档并非博客，而 MkDocs-Material 就是为技术文档量身打造的。
 
 25.01.19
 
@@ -91,7 +91,7 @@ hexo s
 
 24.03.07
 
-:sparkles: **新增：自定义网站域名** - 购买长期可用顶级域名 [dwj601.cn](https://dwj601.cn/) 并配置二级域名 [blog.dwj601.cn](https://blog.dwj601.cn) 定位到当前博客网站。便于网站推流。
+:sparkles: **新增：自定义网站域名** - 购买长期可用顶级域名 `dwj601.cn` 并配置二级域名 `blog.dwj601.cn` 定位到当前博客网站。便于网站推流。
 
 24.03.03
 
