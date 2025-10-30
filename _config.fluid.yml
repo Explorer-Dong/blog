@@ -965,7 +965,7 @@ about:
   banner_img: https://cdn.dwj601.cn/images/日出.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: https://cdn.dwj601.cn/images/avatar.jpg
+  avatar: https://cdn.dwj601.cn/images/avatar4.png
   name: "Explorer-Dong"
   intro: "Do what I love. Love what I do."
   # 更多图标可从 https://fluid-dev.github.io/hexo-fluid-docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
