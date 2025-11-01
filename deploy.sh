@@ -25,6 +25,7 @@ put -r $ARCHIVE_NAME $REMOTE_DIR/
 bye
 EOF
 rm $ARCHIVE_NAME
+hexo clean
 
 # 云端解压配置
 ssh ${REMOTE_USER}@${REMOTE_HOST} << EOF

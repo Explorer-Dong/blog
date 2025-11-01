@@ -1,7 +1,7 @@
 ---
 title: 有意思，网站被刷流量了
 date: 2025-9-23
-tags: [盗刷流量, 手下留情]
+tags: [建站, 网络安全]
 index_img: https://cdn.dwj601.cn/images/20250924120309520.png
 ---
 
@@ -24,6 +24,7 @@ index_img: https://cdn.dwj601.cn/images/20250924120309520.png
 ![图床流量](https://cdn.dwj601.cn/images/20250923193854784.png)
 
 网页文件访问次数统计：
+
 ![网页文件访问次数统计](https://cdn.dwj601.cn/images/20250923193900219.png)
 
 图床的文件访问次数统计：
@@ -77,23 +78,13 @@ index_img: https://cdn.dwj601.cn/images/20250924120309520.png
 
 对于第一种攻击方法，我的解决思路如下：
 
-1. 开通阿里云的 CDN 服务，然后封掉对应的 IP。这也不通用，因为依赖于 CDN 服务，需要花费额外的钱；
+1. 开通阿里云的 CDN 服务，然后封掉对应的 IP；
 2. 【我实施的】将网页从 OSS 转移到服务器上。这种方法相对合适点，因为转移到服务器后可以利用 Nginx 等网关很方便地封掉对应的 IP。代价是用户加载网页会受到一定的影响，这取决于服务器的性能和区域，同时按量付费的服务器的流量相较于 OSS 的流量要贵一点，目前阿里云的价格是：服务器流量费为 0.8 元/GB，而 OSS 流量费为 0.5 元/GB（夜间 0.25 元/GB）。
 
 对于第二种攻击方法，我的解决思路如下：
 
-1. 可以直接利用 OSS 的防盗链功能，禁止空的 Referer 请求。这种方法最简单，不需要各种折腾，但是不方便的地方就是我本地就没法查看 OSS 的图片了，因为各种 Markdown 编辑器加载图床的图片时发送的请求都是空的 Referer。
-
-### 关于阿里云的 CDN 服务
-
-考虑到原始机器性能不足，还是得依赖阿里云的 OSS 服务，[基于 OSS 架构的 CDN 服务](https://help.aliyun.com/zh/cdn/product-overview/billing-of-oss-content-acceleration) 逻辑如下图所示：
-
-![OSS + CDN 的服务计费](https://cdn.dwj601.cn/images/20251016103440336.png)
-
-共两个数据请求逻辑：
-
-- CDN 请求 OSS 对应 CDN 的回源流量，这一部分不计费。OSS 响应 CDN 进行传输，这一部分计费，[费用](https://www.aliyun.com/price/product?#/oss/detail/ossbag) 为 0.15 元/GB；
-- 客户端请求 CDN 的流量上图没标出来，对应用户自己的上行流量，和服务端无关。CDN 响应客户端的请求对应 CDN 的下行流量，[费用](https://www.aliyun.com/price/product?#/cdn/detail/cdn) 按梯度收费，内陆为 0.24 元/GB，其他地区费用较高。
+1. 同样可以基于 CDN 进行防御；
+2. 利用 OSS 的防盗链功能，禁止空的 Referer 请求。这种方法最简单，不需要各种折腾，但是不方便的地方就是我本地就没法查看 OSS 的图片了，因为各种 Markdown 编辑器加载图床的图片时发送的请求都是空的 Referer。
 
 ## 意外发现
 
