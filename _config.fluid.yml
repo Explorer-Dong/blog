@@ -239,6 +239,7 @@ custom_js:
 # 指定自定义 .css 文件路径，用法和 custom_js 相同
 custom_css:
   - /styles/iconfont.css  # 自定义的图标
+  - /styles/extra.css  # 自定义的样式
   # - ///cdn.jsdelivr.net/gh/bynotes/texiao/source/css/shubiao.css # 鼠标指针
 
 
