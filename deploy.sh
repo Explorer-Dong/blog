@@ -13,7 +13,7 @@ echo -e "\n部署到 Server ...\n"
 # 变量配置
 REMOTE_USER="git"
 REMOTE_HOST="47.100.217.241"
-REMOTE_DIR="/home/web"
+REMOTE_DIR="/www"
 LOCAL_SOURCE_DIR="public"
 ARCHIVE_NAME="blog.tar.gz"
 TARGET_DIR_NAME="blog"
