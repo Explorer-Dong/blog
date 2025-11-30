@@ -1,6 +1,6 @@
 # 生活博客
 
-这是我的生活博客，随便写点心得感悟。
+这是我的生活博客，随缘写点心得感悟。
 
 - 博客地址：<https://blog.dwj601.cn/>
 - 搭建教程：<https://wiki.dwj601.cn/develop/ssg-hexo/>
