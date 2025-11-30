@@ -42,6 +42,9 @@ hexo s
 
 <details>
 <summary> 更新日志 </summary>
+2025.11.30
+
+采取私有 OSS + CDN 的方式部署。
 
 2025.09.24
 
