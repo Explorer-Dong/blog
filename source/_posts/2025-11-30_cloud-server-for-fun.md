@@ -30,10 +30,13 @@ index_img: https://cdn.dwj601.cn/images/20251130210905323.svg
 | 域名 (Domain)                                                | 按年计费                                                     |
 | 云服务器 (ECS)                                               | 机器按年计费、流量按量计费（0.8 元/GB）                      |
 | 对象存储服务 ([OSS](https://www.aliyun.com/price/product#/oss/detail/oss)) | 存储 `*` 按年计费、外网流出流量 `*` 按量计费（白天 0.5 元/GB，凌晨 0.25 元/GB）、CDN 回源流出流量按量计费（0.15 元/GB） |
-| 内容分发网络 ([CDN](https://www.aliyun.com/price/product#/cdn/detail/cdn)) | 流量 `*` 按量计费（大陆地区 0.24 元/GB，其他地区价格略高）、HTTPs 请求 `*` 按次计费（0.05 元/万次） |
+| 内容分发网络 ([CDN](https://www.aliyun.com/price/product#/cdn/detail/cdn)) | 流量 `*` 按量计费（大陆地区 0.24 元/GB，其他地区价格较高）、HTTPs 请求 `*` 按次计费（0.05 元/万次，每月有免费额度）、实时日志推送按量计费（0.01 元/万条） |
 | 简单日志服务 ([SLS](https://www.aliyun.com/price/product#/sls/detail/sls)) | 流量按量计费（0.4 元/GB）、存储按量计费（存 30 天免费）      |
 
-*注：打 `*` 表示可买资源包，单价更低。至于是否购买，取决于具体的业务场景。
+*注：
+
+- 打 `*` 表示可买资源包，单价更低。至于是否购买，取决于具体的业务场景；
+- 阿里云 CDN 的实时日志推送服务和 SLS 服务是绑定的（CDN 把日志实时推送给 SLS），所以想要监控阿里云 CDN，就不得不掏「实时日志推送」和「SLS」两份钱😡，经过我的分析，这个价格并不便宜。
 
 ## 部署方案选型
 
