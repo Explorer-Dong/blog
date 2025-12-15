@@ -1,5 +1,6 @@
 ---
 title: 科研二三事
+date: 2025-3-18 15:00
 tags: [科研, 讲座, 读研]
 index_img: https://cdn.dwj601.cn/images/20250316171347038.png
 marp: true
@@ -16,6 +17,8 @@ math: katex
 ---
 
 本文产生于作者大三下学期时给学弟学妹们做的一场科研讲座。考虑到涉世未深、经验不足，内容大多引自他人之言。
+
+> 在 VScode 安装 Marp for VS Code 插件打开本文件，打开 Markdown 预览即可以 PPT 的形式预览。
 
 <!-- _paginate: skip -->
 
