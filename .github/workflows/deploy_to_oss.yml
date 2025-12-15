@@ -1,0 +1,44 @@
+name: Deploy to OSS
+
+on: push
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+      with:
+        fetch-depth: 0  # fetch all commit history
+    
+    - name: Setup nodejs
+      uses: actions/setup-node@v6
+      with:
+        node-version: 24
+    
+    - name: Install dependence
+      run: |
+        npm install hexo-cli -g
+        npm install
+
+    - name: Build Website
+      run: |
+        hexo clean
+        hexo generate
+    
+    - name: Setup Aliyun CLI
+      uses: aliyun/setup-aliyun-cli-action@v1
+    
+    - name: Config Aliyun CLI
+      run: |
+        aliyun configure set \
+          --mode AK \
+          --region ${{ vars.REGION }} \
+          --access-key-id ${{ secrets.ALIYUN_ACCESS_KEY_ID  }} \
+          --access-key-secret ${{ secrets.ALIYUN_ACCESS_KEY_SECRET  }}
+
+    - name: Operate Aliyun OSS
+      run: |
+        aliyun ossutil rm -r oss://blog-web-shanghai/ -f
+        aliyun ossutil cp -r ./public/ oss://blog-web-shanghai/
