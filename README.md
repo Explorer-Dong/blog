@@ -3,7 +3,7 @@
 这是我的生活博客，随缘写点心得感悟。
 
 - 博客地址：<https://blog.dwj601.cn/>
-- 搭建教程：<https://wiki.dwj601.cn/develop/ssg-hexo/>
+- 搭建教程：<https://wiki.dwj601.cn/develop/tools/hexo/>
 
 <details>
 <summary> 本地部署 </summary>
