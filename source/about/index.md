@@ -4,6 +4,8 @@ layout: about
 comment: true
 ---
 
+<p align="center">表 1. 教育经历</p>
+
 $$
 \begin{array}{cccc}
 \hline
@@ -16,6 +18,16 @@ $$
 \end{array}
 $$
 
-高中时一心学习，规避了喧嚣但也阻碍了视野。填报志愿时，因为滑档，误打误撞进入了 CS 的世界。或许这就是缘分所在，当所学的一切都是如此的 explainable and elegant，我想我已经找到了值得用一生去深耕的领域。Computer is not magic，我不能再同意更多！
+<p align="center">表 2. 工作经历</p>
 
-![我的 GitHub Status](https://ghchart.rshah.org/Explorer-Dong)
+$$
+\begin{array}{cccc}
+\hline
+\textbf{岗位} & \textbf{时间} & \textbf{公司} & \textbf{内容} \\
+\hline
+\text{科研实习} & 2025.10 - 2026.02 & \text{南京开为科技} & \text{模型部署、模型推理加速} \\
+\hline
+\end{array}
+$$
+
+![图 1. 我的 GitHub 状态图](https://ghchart.rshah.org/Explorer-Dong)

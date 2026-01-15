@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1737997767889') format('truetype');
+  src: url('iconfont.ttf?t=1768503594897') format('truetype');
 }
 
 .iconfont {
@@ -17,9 +17,5 @@
 
 .icon-wiki:before {
   content: "\e60a";
-}
-
-.icon-csdn:before {
-  content: "\e502";
 }
 
