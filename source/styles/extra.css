@@ -1,3 +1,7 @@
 .markdown-body table {
     display: table;
 }
+
+.markdown-body h2 {
+    text-align: center;
+}
