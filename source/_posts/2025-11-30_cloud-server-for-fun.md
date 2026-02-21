@@ -13,7 +13,7 @@ index_img: https://cdn.dwj601.cn/images/20251130210905323.svg
 
 我的云服务架构：
 
-![我的云服务架构](https://cdn.dwj601.cn/images/20260219213406267.svg)
+![我的云服务架构](https://cdn.dwj601.cn/images/my-cloud-service-architecture.svg)
 
 对外提供的服务：
 
