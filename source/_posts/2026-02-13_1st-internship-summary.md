@@ -2,7 +2,7 @@
 title: 第一段实习总结
 date: 2026-02-13 23:20
 tags: [实习]
-index_img: https://cdn.dwj601.cn/images/20260107223907626.png
+index_img: https://cdn.dwj601.cn/images/20260226140243104.png
 ---
 
 ## 写在前面

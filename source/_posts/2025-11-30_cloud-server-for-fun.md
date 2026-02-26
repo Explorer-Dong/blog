@@ -2,7 +2,7 @@
 title: 玩云服务的一些经验和心得
 date: 2025-11-30 21:10
 tags: [云服务]
-index_img: https://cdn.dwj601.cn/images/20251130210905323.svg
+index_img: https://cdn.dwj601.cn/images/my-cloud-service-architecture.svg
 ---
 
 提供自定义的服务真的是一件非常酷的事！
