@@ -69,3 +69,59 @@ index_img: https://cdn.dwj601.cn/images/my-cloud-service-architecture.svg
 
 - 更稳定：只要服务器性能足够，理论上任意服务都可以部署；
 - 更普适：部署侧无需关心依赖，只需要按需设置参数即可。
+
+## 部署实施细节
+
+### 私有 OSS + 阿里云 CDN
+
+关于 OSS：购买一个 OSS 存储套餐后，创建一个存储桶（默认私有），后续把数据传输（GUI、CLI）到该桶即可。
+
+关于 CDN：使用阿里云 CDN 配合阿里云 OSS 的话，流量费会少一点。主要步骤：
+
+第一步：设置 CDN 加速域名，例如本站就是 `blog.dwj601.cn`；
+
+第二步：设置源站信息，此时可以选择私有 OSS 桶对应的域名：
+
+![设置源站信息，选择私有 OSS 桶对应的域名](https://cdn.dwj601.cn/images/20260312094600741.png)
+
+第三步：进入域名解析，把自定义域名解析到阿里云提供的 CDN 加速域名上：
+
+![把自定义域名解析到阿里云提供的 CDN 加速域名上，记录类型为 CNAME](https://cdn.dwj601.cn/images/20260312094849964.png)
+
+最后在 CDN 域名列表给这个域名配置一些规则即可，常见的规则有：
+
+- 安全规则（限流、IP 黑白名单等）；
+
+- 主页规则（当 OSS 被设置为静态网站时，首页默认需要显式访问 `example.com/index.html`，默认无法访问首页的 index.html，需要重写一下 URL 访问规则）
+
+    ![重写 URL 访问规则](https://cdn.dwj601.cn/images/20260312095541113.png)
+
+- SSL 证书配置
+
+### 使用 Docker 部署 memos
+
+[memos](https://github.com/usememos/memos) 是一款开源可自托管的备忘录系统，对硬件的要求极小。
+
+部署命令：
+
+```bash
+docker volume create memos_prod
+
+docker run -d \
+  --name memos_0.26.2 \
+  -p 5230:5230 \
+  -v memos_prod:/var/opt/memos \
+  neosmemo/memos:0.26.2
+```
+
+使用 OSS 兼容 S3 配置对象存储：
+
+![使用 OSS 兼容 S3 对象存储的配置](https://cdn.dwj601.cn/images/20260228223809546.png)
+
+OSS 与 S3 的主要区别就是 Endpoint，OSS 的 Endpoint 见 [对应文档](https://help.aliyun.com/zh/oss/user-guide/regions-and-endpoints) 中的内容。
+
+文件路径模板文档没有详细说明，阅读 [源码](https://github.com/usememos/memos/blob/main/server/router/api/v1/attachment_service.go#L490C1-L517C2) 可以知道有 `filename`、`timestamp` 等选项，读者可自行配置。我的路径配置为：
+
+```text
+memos/{year}{month}{day}{hour}{minute}{second}_{filename}
+```
