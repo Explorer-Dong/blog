@@ -4,7 +4,37 @@ layout: about
 comment: true
 ---
 
-<p align="center">表 1. 教育经历</p>
+## 关于我
+
+你好，我叫董文杰。我正在南京师范大学攻读人工智能工学学士，即将进入东南大学攻读计算机科学与技术工学硕士。
+
+我的研究方向为 **大语言模型**，但其实我也对 **软件开发** 感兴趣。
+
+我很喜欢写作，比如我的 [`📄 技术博客`](https://wiki.dwj601.cn/ "wiki") 和 [`🍀 生活博客`](https://blog.dwj601.cn/ "blog")。如果有任何问题，欢迎 [`📧 邮件`](mailto:explorer-dong@foxmail.com) 联系。
+
+## 关于我的 GitHub
+
+<table>
+  <tr>
+    <!-- 贡献状态 -->
+    <td><center><img src="https://github-readme-stats-seven-chi-38.vercel.app/api?username=Explorer-Dong&show_icons=true&theme=solarized-light"></center></td>
+    <!-- 语言占比 -->
+    <td><center><img src="https://github-readme-stats-seven-chi-38.vercel.app/api/top-langs/?username=Explorer-Dong&exclude_repo=wiki,blog&theme=solarized-light&hide=cmake,html,css"></center></td>
+  </tr>
+</table>
+
+![图 1. 我的 GitHub 状态图](https://ghchart.rshah.org/Explorer-Dong)
+
+## 关于我的技术栈
+
+| 领域 / Fields     | 内容 / Contents                                              |
+| :---------------- | ------------------------------------------------------------ |
+| 语言 / Languages  | ![skills](https://skillicons.dev/icons?i=c,cpp,python)       |
+| 框架 / Frameworks | ![skills](https://skillicons.dev/icons?i=qt,pytorch,fastapi) |
+| 工具 / Tools      | ![skills](https://skillicons.dev/icons?i=git,md,linux,docker) |
+
+
+## 教育经历
 
 $$
 \begin{array}{cccc}
@@ -18,7 +48,7 @@ $$
 \end{array}
 $$
 
-<p align="center">表 2. 工作经历</p>
+## 工作经历
 
 $$
 \begin{array}{cccc}
@@ -29,5 +59,3 @@ $$
 \hline
 \end{array}
 $$
-
-![图 1. 我的 GitHub 状态图](https://ghchart.rshah.org/Explorer-Dong)
