@@ -43,10 +43,12 @@ jobs:
         aliyun ossutil rm ${{ vars.WEB_OSS_PATH }} -r -f
         aliyun ossutil cp ./public/ ${{ vars.WEB_OSS_PATH }} -r -f -j 20
 
-    - name: Refresh Aliyun CDN
+    - name: Refresh Aliyun ESA
       run: |
-        aliyun cdn RefreshObjectCaches \
-          --region ${{ vars.REGION }} \
-          --ObjectPath ${{ vars.WEB_DIRECTORY }} \
-          --ObjectType Directory \
-          --Force false
+        aliyun esa PurgeCaches \
+          --region cn-hangzhou \
+          --Content '{"CacheKeys":[],"Hostnames":[],"Directories":["${{ vars.WEB_DIRECTORY }}"]}' \
+          --SiteId 1185133088541216 \
+          --Type directory \
+          --Force false \
+          --EdgeComputePurge true
