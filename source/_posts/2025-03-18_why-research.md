@@ -99,4 +99,4 @@ math: katex
 - [Marp on VSCode - Marp it](https://marpit.marp.app/directives)
 - [Paper Writing - Xudong Tian](https://www.jianguoyun.com/p/DasNcD0Q6fiQDRjnyO8FIAA)
 - [给各位天命人的劝退信 - jyywiki](https://jyywiki.cn/Letter.md)
-- 原文地址：[科研二三事 - Explorer Dong's Blog](https://blog.dwj601.cn/2025/03/18/)
+- 原文地址：[科研二三事 - Vincent's Blog](https://blog.dwj601.cn/2025/03/18/)
