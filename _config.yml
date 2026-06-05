@@ -4,9 +4,9 @@
 
 # Site
 title: Vincent's Blog
-subtitle: '博客'
+subtitle: 'Blog'
 description: '个人博客，随缘写点心得感悟。'
-keywords: '人工智能 职业规划 学习心得 生活感悟'
+keywords: '学习心得 生活感悟'
 author: 'Vincent'
 language: zh-CN
 timezone: 'Asia/Shanghai'
@@ -110,9 +110,7 @@ githubEmojis:
   styles:
   customEmojis:
 
-# ---------- Fluid ----------
-# math - latex
+# LaTeX
 markdown:
   plugins:
     - "@traptitech/markdown-it-katex"
-# ---------- Fluid ----------
