@@ -1,8 +1,12 @@
 # 生活博客
 
+> [!warning]
+>
+> 已迁移至个人主页，本项目不再维护。
+
 这是我的生活博客，随缘写点心得感悟。
 
-- 博客地址：<https://blog.dwj601.cn/>
+- 博客地址：<https://www.dwj601.cn/blog.html>
 - 搭建教程：<https://wiki.dwj601.cn/develop/tools/hexo/>
 
 <details>
