@@ -1,13 +1,8 @@
-# 生活博客
+# 博客
 
-> [!warning]
->
-> 已迁移至个人主页，本项目不再维护。
+这是我的博客仓库，随缘写点学习心得和生活感悟。
 
-这是我的生活博客，随缘写点心得感悟。
-
-- 博客地址：<https://www.dwj601.cn/blog.html>
-- 搭建教程：<https://wiki.dwj601.cn/develop/tools/hexo/>
+博客地址：<https://blog.dwj601.cn/>
 
 <details>
 <summary> 本地部署 </summary>
@@ -18,15 +13,10 @@
 npm install hexo-cli -g
 ```
 
-拉取仓库：
+拉取并进入仓库：
 
 ```bash
 git clone https://github.com/Explorer-Dong/blog.git
-```
-
-进入博客文件夹：
-
-```bash
 cd blog/
 ```
 
@@ -36,16 +26,22 @@ cd blog/
 npm install
 ```
 
-热启动后即可预览博客网站：
+热启动后即可预览博客：
 
 ```bash
 hexo s
 ```
 
+完成编辑后推送到 GitHub 即可，Cloudflare 会自动检测并更新网站。
+
 </details>
 
 <details>
 <summary> 更新日志 </summary>
+2026.08.02
+
+原方案的 CI 使用 GitHub Actions，CD 使用阿里云 OSS + ESA，该方案限制较多且配置繁琐，目前 CI/CD 均迁移至 Cloudflare Pages。
+
 2025.11.30
 
 采取私有 OSS + CDN 的方式部署。
